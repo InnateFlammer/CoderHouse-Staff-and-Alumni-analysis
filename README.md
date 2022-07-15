@@ -9,4 +9,5 @@ Warning! - The visuals are in Spanish
 
 ## General Structure
 Brand colors and icons were used to represent a for-and-from CoderHouse report. A simple but effective distribution of four light colored visual graphs on the center-right alongside selection indicators on the left and dark filters on the same column was used for an aesthetically pleasing report with no visual clutter (seriously, it was too much bright until I came up with the idea of the dark filters). Navigation icons were selected according to the aesthetic and thematic of the project.
+
 ![enter image description here](Captures/base_screenshot.png)
