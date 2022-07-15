@@ -139,11 +139,11 @@ I unionized the tables with a couple of SQL queries, using a mark to order them 
 
 And finally, here's the result!
 
-![enter image description here](Captures/credits_screenshot.png)
+![enter image description here](Captures/map_screenshot.png)
 
 Notice that I used the same green that students had before. Visual cohesion is important!
 
 ## Credits
 Always give credits to you contributors, specially the ones who ask for it!
 
-![enter image description here](Captures/credits.png)
+![enter image description here](Captures/credits_screenshot.png)
