@@ -1,4 +1,7 @@
 # CoderHouse Staff & Alumni analysis
+
+![base structure](Captures/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png)
+
 So... this was originally part of a **workshop**, CoderHouse gave us a sample of their own database and asked us to analyze the data with a couple of prompts. More than limiting myself to what they asked for, I saw this as an opportuny to explore **PowerBI** as a tool and refine my **Storytelling** skills (I was pretty excited about it after reading *Storytelling With Data* from Cole Nussbaumer).
 
 I've created far more Metrics and KPI's than what they asked for, and I even ended up crossing data from outer sources with the original database to make a pretty good looking **map**! 
