@@ -24,7 +24,7 @@ As you may notice now, since the very first page the report assigns the sea gree
 ![enter image description here](Captures/staff_screenshot.png)
 
 ## Map
-And here It's when the fun begins - I had data about the location of the students in the database, but they were ZIP codes. That gave me two problems: First, It turns out that ZIP codes aren't unique; they can be shared across countries (I didn't know that lol), so PowerBI takes the data and places It with some sort of random order priority, It was a mess! And as a second problem, even if the ZIP codes were unique to each country, that would give me a map with a bubble in each Zip code, insead of the whole country, I had to do something about It!
+And here It's where the fun begins - I had data about the location of the students in the database, but they were ZIP codes. That gave me two problems: First, It turns out that ZIP codes aren't unique; they can be shared across countries (I didn't know that lol), so PowerBI takes the data and places It with some sort of random order priority, It was a mess! And as a second problem, even if the ZIP codes were unique to each country, that would give me a map with a bubble in each Zip code, insead of the whole country, I had to do something about It!
 
 So after doing some research, I've found [this page](https://www.listendata.com/2020/11/zip-code-to-latitude-and-longitude.html) that offers a dataset of ZIP codes converted to latitude and longitude, that was my golden egg chicken.
 The codes were split between continents, and like I've said, there was a lot of repeated codes.
