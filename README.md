@@ -9,9 +9,11 @@ Warning! - The visuals are in Spanish
 
 ### Tl;dr
 
-- Created a *PowerBI* report using a sample database of their own that the company gave us
-- Got pretty nice visuals and *storytelling*
-- Used *MSSQLS* and *Excel* to integrate new data from outer sources and create a very cool looking map - Sharpening those *problem solving* skills!
+- Created a **PowerBI** report using a sample database of their own that the company gave us
+- Got pretty nice visuals and **storytelling**
+- Used **MSSQLS** and **Excel** to integrate new data from outer sources and create a very cool looking map - Sharpening those *problem solving* skills!
+- Created my own color palletes, themes and templates to agilize future reports
+
 
 
 ## General Structure
