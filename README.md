@@ -7,6 +7,13 @@ I hope this give you an idea of what kind of visualizations you could expect fro
 
 Warning! - The visuals are in Spanish
 
+##Tl;dr
+
+- Created a *PowerBI* report using a sample database of their own that the company gave us
+- Got pretty nice visuals and *storytelling*
+- Used *MSSQLS* and *Excel* to integrate new data from outer sources and create a very cool looking map - Sharpening those *problem solving* skills!
+
+
 ## General Structure
 Brand colors and icons were used to represent a for-and-from CoderHouse report. A simple but effective distribution of four light colored visual graphs on the center-right alongside selection indicators on the left and dark filters on the same column was used for an aesthetically pleasing report with no visual clutter (seriously, it was too much bright until I came up with the idea of the dark filters). Navigation icons were selected according to the aesthetic and thematic of the project.
 
@@ -30,7 +37,7 @@ So after doing some research, I've found [this page](https://www.listendata.com/
 The codes were split between continents, and like I've said, there was a lot of repeated codes.
 I wanted to union every table into a single, big table, but get rid of the duplicates in the process, so I've stablished a priority for each continent based on the location of the company and I'ts staff, this way, each code will indicate the country that is most likely to have an student on it.
 
-The priority were SA>NA>EU>OC>AS>AF.
+The priority were SA>NA>EU>OC>AS>AF (based on the location of the company, and then the number of spanish speakers).
 
 I unionized the tables with a couple of SQL queries, using a mark to order them by my custom priority, and then removed the duplicates in Excel.
 
