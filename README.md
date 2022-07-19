@@ -30,7 +30,7 @@ The bottom-left one was an idea of mine. it shows the amount of new students ove
 
 ![enter image description here](Captures/students_screenshot2.png)
 
-## Staff
+## Staff Tab
 As you may notice now, since the very first page the report assigns the sea green color to the students, and a bland blue to the staff. This page is made out of three graphs and a detail table, I must say, I'm not a fan of detail tables in the middle of a report, but we were asked for it.
 
 ![enter image description here](Captures/staff_screenshot.png)
