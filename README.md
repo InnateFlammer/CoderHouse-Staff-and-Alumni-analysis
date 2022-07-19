@@ -7,7 +7,7 @@ I hope this give you an idea of what kind of visualizations you could expect fro
 
 Warning! - The visuals are in Spanish
 
-## Tl;dr
+#### Tl;dr
 
 - Created a *PowerBI* report using a sample database of their own that the company gave us
 - Got pretty nice visuals and *storytelling*
